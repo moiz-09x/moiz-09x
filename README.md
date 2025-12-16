@@ -1,64 +1,68 @@
-# Abdul Moiz 👋
+# Hi, I'm Abdul Moiz 👋
 
-Product Manager with ~2.5 years of experience owning **end-to-end delivery of SaaS, IoT, and enterprise platforms** across international markets.
+I'm a **Product Manager with strong hands-on engineering experience**, focused on building **0→1 products** that actually ship, scale, and create business impact. While my day-to-day role sits at the intersection of product, business, and users, I intentionally use GitHub to showcase the **technical side of my skill set** — how I think, design, and build systems end to end.
 
-I work at the intersection of **product, engineering, and business** — translating ambiguous problems into shipped systems that drive revenue, adoption, and operational impact.
-
----
-
-## What I Do
-
-* Own products from **0 → 1 and scale**, under tight constraints
-* Partner closely with engineers, designers, and business stakeholders
-* Design backend-heavy systems that support multiple frontends and real users
-* Balance product discovery with hands-on execution
+I enjoy getting close to the code, architecture, and data, not just writing specs.
 
 ---
 
-## Highlights
+## 🚀 What I Build
 
-* 🚀 Led delivery of a **Gift Card Platform** for a large retail client, enabling **$5M+ in transactions** within months of launch
-* 🎯 Shaped and launched a **Retail Loyalty Platform** based on deep user research with enterprise loyalty managers
-* 🎮 Designed a **Loyalty Game Engine** driving **150K+ interactions** and strong repeat engagement
-* 🛒 Contributed as PM on a **large-scale enterprise eCommerce platform** across multiple use cases
-* 📲 Built a **WhatsApp Marketing Platform** from concept to production (Meta Tech Provider setup, APIs, queues, infra)
+I work on products where **ambiguity is high and constraints are real** — early-stage platforms, internal tools, and production systems used by real customers.
 
----
+On GitHub, you’ll find projects that demonstrate:
 
-## How I Think
+* Building products **from scratch (0→1)**
+* Translating business problems into **scalable technical solutions**
+* Designing APIs, databases, and system workflows
+* Prototyping, shipping, and iterating fast
 
-* Product first, technology second
-* Clear ownership > perfect process
-* Systems and outcomes over features
-* Simple, scalable solutions over clever ones
+My background spans **SaaS, IoT, retail, e-commerce, and enterprise platforms**, often across international markets.
 
 ---
 
-## What You’ll Find Here
+## 🧠 How I Think About Products
 
-* 📦 **Product-driven system designs** (backend + multiple frontends)
-* 🧩 **Well-documented repositories** with clear problem statements and decisions
-* 🔁 Use of **Issues, PRs, and GitHub-native workflows** even in solo projects
+I approach product building as a **full-stack problem**:
 
-*(Pinned repositories below 👇)*
+1. Understand the user and business constraint
+2. Design the system (flows, data models, APIs)
+3. Build or prototype the solution
+4. Measure usage, reliability, and outcomes
+5. Iterate based on real signals
 
----
-
-## Open to
-
-* Product & platform problem-solving
-* Early-stage and growth-phase products
-* Roles that value both **thinking and execution**
+This mindset allows me to collaborate deeply with engineers while still owning product outcomes.
 
 ---
 
-## Elsewhere
+## 🛠 Tech Stack & Skills
 
-* 💼 LinkedIn: [https://linkedin.com/in/moiz](https://linkedin.com/in/moiz)
-* 🦊 GitLab (production work & history): <add your GitLab profile link>
-
-> Some of my professional work lives on GitLab due to company workflows. This GitHub focuses on personal projects, experiments, and open exploration.
+| Area                | Technologies & Skills                            |
+| ------------------- | ------------------------------------------------ |
+| **Languages**       | Python, JavaScript                               |
+| **Backend**         | Node.js, REST APIs, SQL, Redis                   |
+| **Frontend**        | Vue.js, Nuxt                                     |
+| **System Design**   | Data modeling, ERDs, API design, async workflows |
+| **Infrastructure**  | Azure, cloud deployments, background queues      |
+| **Version Control** | Git, GitHub                                      |
 
 ---
 
-Thanks for stopping by — repositories are the best place to see how I work.
+## 📌 Selected Real-World Work
+
+Some of the problems I’ve worked on professionally (sanitized versions may appear here as side projects):
+
+* **Retail Loyalty Platforms** with game mechanics and rewards engines
+* **WhatsApp Marketing Platforms** (Meta API integrations, backend queues, Redis, cloud infra)
+* **Enterprise eCommerce Systems** used by large retailers
+* **Restaurant OS / POS systems** deployed across multiple live environments
+* **IoT-backed platforms** with hardware + software coordination
+
+---
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Moiz-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/moiz)
+[![Email](https://img.shields.io/badge/Email-abdulmoiz.1045%40gmail.com-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:abdulmoiz.1045@gmail.com)
