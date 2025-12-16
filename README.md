@@ -1,4 +1,4 @@
-# Hi, I'm Abdul Moiz 👋
+<img width="998" height="378" alt="image" src="https://github.com/user-attachments/assets/c44e9345-90d5-4e51-a6fe-dbaa2629c990" /># Hi, I'm Abdul Moiz 👋
 
 I'm a **Product Manager with strong hands-on engineering experience**, focused on building **0→1 products** that actually ship, scale, and create business impact. While my day-to-day role sits at the intersection of product, business, and users, I enjoy getting close to the code, architecture, and data — not just writing specs.
 
@@ -29,40 +29,40 @@ I approach product building as a **full-stack problem**:
 4. Measure usage, reliability, and outcomes
 5. Iterate based on real signals
 
+I love spending time in **technical documentation, third-party API docs, and integration guides**, and translating them into clean, reliable implementations.
+
 This mindset allows me to collaborate deeply with engineers while still owning product outcomes.
 
 ---
 
-## 📊 GitLab Contributions
+You can view more of my hands-on engineering work and contribution history on GitLab:
 
-Below is a snapshot of my GitLab activity reflecting my hands-on engineering involvement.
+[![GitLab](https://img.shields.io/badge/GitLab-View%20Contributions-FC6D26?style=flat\&logo=gitlab\&logoColor=white)](https://gitlab.com/abdul.moiz.cowlar)
 
-![GitLab Contribution Graph](https://gitlab.com/users/<your-gitlab-username>/contribution_graph.svg)
+<img width="998" height="378" alt="image" src="https://github.com/user-attachments/assets/bbfc5576-1245-49b1-bd49-d7c8a2db2b3b" />
 
 ---
 
 ## 🛠 Tech Stack & Skills
 
-| Area                | Technologies & Skills                            |
-| ------------------- | ------------------------------------------------ |
-| **Languages**       | Python, JavaScript                               |
-| **Backend**         | Node.js, REST APIs, SQL, Redis                   |
-| **Frontend**        | Vue.js, Nuxt                                     |
-| **System Design**   | Data modeling, ERDs, API design, async workflows |
-| **Infrastructure**  | Azure, cloud deployments, background queues      |
-| **Version Control** | Git, GitHub                                      |
+| Category                     | Technologies                       |
+| ---------------------------- | ---------------------------------- |
+| **Backend**                  | Node.js, NestJS, Express.js        |
+| **Databases & APIs**         | PostgreSQL, Prisma, REST APIs      |
+| **Frontend**                 | Vue.js, Nuxt.js                    |
+| **Infrastructure & Systems** | Azure Cloud, Docker, Redis, BullMQ |
+| **Dev Tools**                | Git, Postman, Figma                |
 
----
 
-## 📌 Selected Real-World Work
+## 📌 My Project
 
-Some of the problems I’ve worked on professionally (sanitized versions may appear here as side projects):
+Some of the problems I’ve worked on professionally:
 
-* **Retail Loyalty Platforms** with game mechanics and rewards engines
+* **Gift Card Platform** for a large retail client, designed and launched under tight timelines, handling high-volume transactions in production
+* **Retail Loyalty Platform** with game mechanics and rewards engines
 * **WhatsApp Marketing Platforms** (Meta API integrations, backend queues, Redis, cloud infra)
 * **Enterprise eCommerce Systems** used by large retailers
 * **Restaurant OS / POS systems** deployed across multiple live environments
-* **IoT-backed platforms** with hardware + software coordination
 
 ---
 
