@@ -1,4 +1,4 @@
-<img width="998" height="378" alt="image" src="https://github.com/user-attachments/assets/c44e9345-90d5-4e51-a6fe-dbaa2629c990" /># Hi, I'm Abdul Moiz 👋
+# Hi, I'm Abdul Moiz 👋
 
 I'm a **Product Manager with strong hands-on engineering experience**, focused on building **0→1 products** that actually ship, scale, and create business impact. While my day-to-day role sits at the intersection of product, business, and users, I enjoy getting close to the code, architecture, and data — not just writing specs.
 
@@ -7,8 +7,6 @@ I'm a **Product Manager with strong hands-on engineering experience**, focused o
 ## 🚀 What I Build
 
 I work on products where **ambiguity is high and constraints are real** — early-stage platforms, internal tools, and production systems used by real customers.
-
-On GitHub, you’ll find projects that demonstrate:
 
 * Building products **from scratch (0→1)**
 * Translating business problems into **scalable technical solutions**
