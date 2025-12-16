@@ -1,8 +1,6 @@
 # Hi, I'm Abdul Moiz 👋
 
-I'm a **Product Manager with strong hands-on engineering experience**, focused on building **0→1 products** that actually ship, scale, and create business impact. While my day-to-day role sits at the intersection of product, business, and users, I intentionally use GitHub to showcase the **technical side of my skill set** — how I think, design, and build systems end to end.
-
-I enjoy getting close to the code, architecture, and data, not just writing specs.
+I'm a **Product Manager with strong hands-on engineering experience**, focused on building **0→1 products** that actually ship, scale, and create business impact. While my day-to-day role sits at the intersection of product, business, and users, I enjoy getting close to the code, architecture, and data — not just writing specs.
 
 ---
 
@@ -32,6 +30,14 @@ I approach product building as a **full-stack problem**:
 5. Iterate based on real signals
 
 This mindset allows me to collaborate deeply with engineers while still owning product outcomes.
+
+---
+
+## 📊 GitLab Contributions
+
+Below is a snapshot of my GitLab activity reflecting my hands-on engineering involvement.
+
+![GitLab Contribution Graph](https://gitlab.com/users/<your-gitlab-username>/contribution_graph.svg)
 
 ---
 
