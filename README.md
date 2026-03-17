@@ -49,7 +49,7 @@ You can view more of my hands-on engineering work and contribution history on Gi
 
 [![GitLab](https://img.shields.io/badge/GitLab-View%20Contributions-FC6D26?style=flat\&logo=gitlab\&logoColor=white)](https://gitlab.com/abdul.moiz.cowlar)
 
-<img width="998" height="378" alt="image" src="https://github.com/user-attachments/assets/bbfc5576-1245-49b1-bd49-d7c8a2db2b3b" />
+<img width="990" height="367" alt="image" src="https://github.com/user-attachments/assets/24331086-d95c-46c7-9142-923cee6022f2" />
 
 
 ---
