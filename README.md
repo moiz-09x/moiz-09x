@@ -1,10 +1,8 @@
 # Hi, I'm Abdul Moiz 👋
 
-### Product manager who gets close to the code.
+### Product manager who learnt to code.
 
 ![Product](https://img.shields.io/badge/Product-Manager-0A66C2?style=flat) ![Engineering](https://img.shields.io/badge/Engineering-Hands--on-2ea44f?style=flat) ![Builder](https://img.shields.io/badge/0→1-Builder-6e40c9?style=flat)
-
-I'm a Product Manager with strong hands-on engineering experience, focused on building products that actually ship, scale, and create business impact. My day-to-day sits at the intersection of product, business, and users — but I stay close to the architecture, data, and code. I don't just write specs; I get into the technical documentation, third-party API docs, and integration guides, and translate them into clean, reliable implementations alongside the engineering team.
 
 ---
 
@@ -59,20 +57,6 @@ I'm a Product Manager with strong hands-on engineering experience, focused on bu
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moiz-09x&theme=github_dark" width="49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moiz-09x&theme=github_dark" width="49%" />
 </p>
-
----
-
-## Things I've shipped
-
-🎁 **Gift Card Platform** — Designed and launched under tight timelines for a large retail client, handling high-volume transactions in production with real-time balance tracking and multi-channel redemption flows
-
-🏆 **Retail Loyalty Platform** — Built game mechanics, rewards engines, and tiered membership systems that drove repeat purchases across a large retail network
-
-💬 **WhatsApp Marketing Platform** — End-to-end messaging infrastructure using Meta's Business API, backend queues with BullMQ, Redis, and cloud infra supporting broadcast campaigns at scale
-
-🛒 **Enterprise eCommerce System** — Large-scale retail platform used across international markets, covering catalog management, orders, inventory, and third-party integrations
-
-🍽️ **Restaurant OS / POS** — Full restaurant operating system deployed across multiple live environments, handling orders, kitchen workflows, and billing in real time
 
 ---
 
