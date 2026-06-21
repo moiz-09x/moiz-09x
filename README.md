@@ -66,7 +66,7 @@ Most of my hands-on engineering work lives on GitLab.
 
 [![GitLab](https://img.shields.io/badge/GitLab-abdul.moiz.cowlar-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/abdul.moiz.cowlar)
 
-<img width="990" height="367" alt="GitLab contribution graph" src="https://github.com/user-attachments/assets/24331086-d95c-46c7-9142-923cee6022f2" />
+<img width="889" height="368" alt="image" src="https://github.com/user-attachments/assets/e941c7be-a244-483f-9dca-d0c74ba5bc3e" />
 
 ---
 
